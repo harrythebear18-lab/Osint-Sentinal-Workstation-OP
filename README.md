@@ -1,9 +1,10 @@
 # OSINT Sentinel Workstation
 
-An offline-first geospatial intelligence cockpit for Windows and macOS.
-A hardware-accelerated 3D Earth at the center — multispectral satellite
-analysis, terrain compute, live global feeds, local AI, and mission-grade
-search-and-rescue tooling, in a single window.
+An offline-first geospatial intelligence runtime for Windows and macOS.
+A semi-photorealistic 3D Earth — but not a static globe view. Live feeds,
+multispectral satellite analysis, terrain compute, local AI, and
+multi-user ops sessions all operate on the same shared scene:
+programmable, not just rendered.
 
 This repository is the **public home** of the project: downloads,
 documentation, issue tracking, and community. Development happens in a
