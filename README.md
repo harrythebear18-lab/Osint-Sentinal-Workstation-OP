@@ -9,7 +9,7 @@ This repository is the **public home** of the project: downloads,
 documentation, issue tracking, and community. Development happens in a
 private repository; releases and docs are published here.
 
-<!-- ![Cockpit](docs/screenshots/cockpit.png) -->
+![OSINT Sentinel Workstation cockpit — 3D globe with live Argo buoy network, satellite orbital tracks, grouped plugin panel, and entity inspector](docs/screenshots/cockpit.png)
 
 ---
 
