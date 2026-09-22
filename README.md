@@ -54,6 +54,91 @@ imagery — everything already cached keeps working offline.
 - **Privacy-first** — staged security model controls what network and
   location data is exposed. No telemetry unless you enable it.
 
+## Modules — 44 across 12 domains
+
+Every module below ships in the base install and is covered by the free
+tier today. Names are as they appear in the in-app module panel.
+
+**Terrain & Hydrology**
+
+- **Slope Bands** — DEM-derived slope analysis rendered as terrain bands
+- **Hillshade** — DEM-derived hillshade overlay for terrain reading
+- **Hydrology** — runoff flow paths, pooling, flood risk, watershed divides
+- **Anomaly Detection** — terrain depressions, prominences, and outliers
+- **Acoustic Propagation** — outdoor sound propagation modeling over terrain
+
+**Satellite Imagery & Vegetation**
+
+- **Sentinel-2 STAC/COG** — real multispectral Sentinel-2 band ingestion
+- **Band Math** — vegetation, water, and burn indices (NDVI/NDWI/NBR)
+- **Canopy / Vegetation** — vegetation intelligence and canopy analysis
+
+**Mapping & Routing**
+
+- **Roads** — vector road and trail network overlay
+- **Routes** — least-cost pathfinding with terrain-aware walking speed
+- **Water** — streams, rivers, lakes, and springs
+
+**Mission & SAR**
+
+- **Search Zones** — probability-weighted last-known-point search rings
+- **Behavior Engine** — multi-agent terrain simulation
+- **Hiker Profile** — psychological and perceptual calibration
+- **Rest Points** — behavior-model shelter/rest scoring
+- **Fall Risk** — slope, curvature, edge, and weather hazard grids
+- **Remains Corridor** — downhill flow modeling from a fall point
+- **Case Profiles** — incident management and case organization
+- **Predictions** — severe weather, storm tracks, SST anomalies, precipitation
+
+**Live Tracking**
+
+- **Aircraft** — live ADS-B flight tracking with heading orientation
+- **Vessels** — AIS maritime tracking
+- **Earthquakes** — USGS 24-hour significant quake feed
+- **Fires** — NASA FIRMS active fire detections
+- **Lightning** — real-time lightning detections
+- **Road Traffic** — live traffic flow overlay
+- **Volcanoes** — global volcano monitoring with live feeds + simulation
+- **Weather** — precipitation radar and point forecasts
+
+**Climate & Space**
+
+- **Climate Stations** — buoys, Argo floats, weather and CO₂ stations
+- **Storms** — active tropical cyclones and forecast tracks
+- **Space Weather** — solar flares, solar wind, Kp index, aurora
+
+**Infrastructure & Network**
+
+- **Infrastructure** — airports, power plants, substations, sensors
+- **Grid Assets** — power generation, data centers, interconnects
+- **Network Connections** — live connection map with GeoIP arcs
+
+**AI & Intelligence**
+
+- **Vision** — scene-aware analysis of what you're looking at, on local AI
+- **CLIP** — image embeddings and visual similarity search over tiles
+- **Detection Overlay** — screen-space boxes over tracked objects
+- **Web Search** — intelligence augmentation via web lookup
+
+**Media & Export**
+
+- **Drone Footage** — extract and georeference frames from drone video
+- **Export / Import** — GeoJSON, KML, and KMZ in and out
+- **Timelapse Export** — satellite imagery timelapse to video
+
+**History & Context**
+
+- **History & Research** — classified historic sites from open data
+- **World Detail** — procedural surface detail for close-range views
+
+**Immersive**
+
+- **VR** — headset rendering via OpenXR (e.g. Quest over PC Link)
+
+**System**
+
+- **HAL Benchmark** — measures GPU, SIMD, and worker throughput on your hardware
+
 ## Editions
 
 The workstation is free to use as a base - modules/plugins are subject to re-evaluation after the first 12 months of existence as of - 22 September 2026 - 
