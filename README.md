@@ -55,9 +55,7 @@ imagery — everything already cached keeps working offline.
 
 ## Editions
 
-The workstation is free to use — every feature that exists today stays
-free forever.
-
+The workstation is free to use as a base - modules/plugins are subject to re-evaluation after the first 12 months of existence as of - 22 September 2026 - 
 | Tier | What you get |
 |------|--------------|
 | **Free** | The full current feature set, permanently |
