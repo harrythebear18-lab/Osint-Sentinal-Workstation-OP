@@ -29,7 +29,7 @@ than the implementation.
 
 Use the [Question](../../issues/new?template=question.yml) template,
 [GitHub Discussions](../../discussions), or the
-[Discord](https://discord.gg/visentrix).
+[Discord](https://discord.gg/denat8G6ze).
 
 ### Plugins (future)
 

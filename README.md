@@ -157,7 +157,7 @@ Keys are activated in-app under **LICENSE** in the toolbar.
 - [Request a feature](../../issues/new?template=feature_request.yml)
 - [Ask a question](../../issues/new?template=question.yml)
 - [GitHub Discussions](../../discussions) — ideas, Q&A, show-and-tell
-- [Discord](https://discord.gg/visentrix)
+- [Discord](https://discord.gg/denat8G6ze)
 
 See [SUPPORT.md](SUPPORT.md) for details. To report a security
 vulnerability privately, see [SECURITY.md](SECURITY.md).
