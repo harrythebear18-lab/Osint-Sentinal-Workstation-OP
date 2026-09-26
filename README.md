@@ -18,7 +18,7 @@ private repository; releases and docs are published here.
 
 Grab the latest build from
 [**Releases**](https://github.com/harrythebear18-lab/Osint-Sentinal-Workstation-OP/releases):
-
+or from https://www.sentinal-systems.uk
 | File | What it is |
 |------|------------|
 | `OSINT Sentinel Workstation Setup x.y.z.exe` | Windows installer (x64 + arm64) |
