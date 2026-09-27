@@ -25,10 +25,17 @@ or from https://www.sentinal-systems.uk
 |------|------------|
 | `OSINT Sentinel Workstation Setup x.y.z.exe` | Windows installer (x64 + arm64) |
 | `OSINT Sentinel Workstation x.y.z.exe` | Windows portable — no install, run anywhere |
+| `OSINT.Sentinal.Workstation-x.y.z-arm64.dmg` | macOS disk image (Apple Silicon, M1+) |
 
-**Requirements:** Windows 10/11, a GPU with up-to-date drivers, ~4 GB
-free disk. An internet connection is needed for live feeds and fresh
-imagery — everything already cached keeps working offline.
+**Requirements:** Windows 10/11 or macOS on Apple Silicon, a GPU with
+up-to-date drivers, ~4 GB free disk. An internet connection is needed
+for live feeds and fresh imagery — everything already cached keeps
+working offline.
+
+**macOS note:** the dmg is unsigned — on first launch, right-click the
+app → **Open** (instead of double-clicking) and confirm. If macOS reports
+the app "is damaged" after downloading in a browser, run once in
+Terminal: `xattr -d com.apple.quarantine "/Applications/OSINT Sentinal Workstation.app"`.
 
 ## What it does
 
