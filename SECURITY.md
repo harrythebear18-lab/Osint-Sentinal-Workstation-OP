@@ -41,6 +41,10 @@ You will receive a response within 48 hours. If confirmed, we will:
 - License files are encrypted using OS secure storage
 - A staged security model (LOCK / AI / FULL / NET) controls what
   network and location data is exposed in the UI
+- The hosted web build is tiered — spectators view only, access-code
+  sessions are capped at AI stage and cannot reach server-introspection
+  or operator surfaces; FULL/NET capability requires an admin-scope
+  code issued by staff
 - Cached data stays on your machine; caches are bounded
 
 ## Best practices for users

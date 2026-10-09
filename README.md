@@ -60,10 +60,19 @@ Terminal: `xattr -d com.apple.quarantine "/Applications/OSINT Sentinal Workstati
   network. Participants keep their own cameras; shared state syncs.
   Joining uses a session PIN — persistent device pairing is a separate,
   explicit approval.
+- **Planetary** — Earth, Moon, and Mars on one engine: NASA Trek
+  basemaps, real landing sites, live rover traverse tracks, and
+  body-correct DEM (WAC DTM / MOLA) and camera scaling.
+- **Subsurface** — caves, mines, tunnels and underground workings from
+  OSM, GrottoCenter, Wikidata, and regional mine authorities, with
+  underground 3D view.
+- **Hosted web** — the same runtime serves browsers: public globe
+  viewing at globe.sentinal-systems.uk, access codes unlock joint
+  sessions and capabilities.
 - **Privacy-first** — staged security model controls what network and
   location data is exposed. No telemetry unless you enable it.
 
-## Modules — 44 across 12 domains
+## Modules — 51 across 15 domains
 
 Every module below ships in the base install and is covered by the free
 tier today. Names are as they appear in the in-app module panel.
@@ -72,6 +81,9 @@ tier today. Names are as they appear in the in-app module panel.
 
 - **Slope Bands** — DEM-derived slope analysis rendered as terrain bands
 - **Hillshade** — DEM-derived hillshade overlay for terrain reading
+- **Relief Mesh** — real DEM displacement over the viewport: hills and
+  valleys rendered as 3D terrain with gentle shaded-relief coloring,
+  exaggerated to stay readable
 - **Hydrology** — runoff flow paths, pooling, flood risk, watershed divides
 - **Anomaly Detection** — terrain depressions, prominences, and outliers
 - **Acoustic Propagation** — outdoor sound propagation modeling over terrain
@@ -109,12 +121,36 @@ tier today. Names are as they appear in the in-app module panel.
 - **Road Traffic** — live traffic flow overlay
 - **Volcanoes** — global volcano monitoring with live feeds + simulation
 - **Weather** — precipitation radar and point forecasts
+- **Launches** — rocket launch schedule, countdowns, and pad layer
+- **Rail** — OSM rail network geometry + live train positions
 
 **Climate & Space**
 
 - **Climate Stations** — buoys, Argo floats, weather and CO₂ stations
 - **Storms** — active tropical cyclones and forecast tracks
 - **Space Weather** — solar flares, solar wind, Kp index, aurora
+
+**Oceans**
+
+- **Oceans** — live NDBC buoys, wave/swell/current and SST fields, GMRT
+  multibeam bathymetry, and a subsea 3D trench view below sea level
+
+**Ecology**
+
+- **Ecology** — GBIF + iNaturalist species observations, DEM-derived
+  microclimate fields (solar, frost-pocket, shelter, moisture), and
+  per-taxon habitat suitability
+
+**Subsurface**
+
+- **Subsurface** — caves, mines, shafts, adits, tunnels, quarries and
+  underground workings; 3D schematic tubes, strata layers, and a
+  see-through-ground underground view
+
+**Planetary**
+
+- **Planet** — Earth/Moon/Mars globe switching, real landing sites,
+  live NASA rover traverse tracks, body-correct DEM and camera scaling
 
 **Infrastructure & Network**
 
