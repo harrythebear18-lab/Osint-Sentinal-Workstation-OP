@@ -62,4 +62,4 @@ You will receive a response within 48 hours. If confirmed, we will:
 
 ---
 
-© 2026 Visentrix. All rights reserved.
+© 2026 Sentinal Systems UK. All rights reserved.

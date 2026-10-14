@@ -216,4 +216,4 @@ API surface are planned — watch this repo.
 
 ---
 
-© 2026 Visentrix. All rights reserved.
+© 2026 Sentinal Systems UK. All rights reserved.

@@ -2,7 +2,7 @@
 
 **Effective Date:** August 2026
 
-Visentrix is committed to GDPR compliance. We collect minimal data, all of which is
+Sentinal Systems UK is committed to GDPR compliance. We collect minimal data, all of which is
 anonymous and cannot be traced back to individual users.
 
 ## 1. Data We Collect
@@ -33,7 +33,7 @@ anonymous and cannot be traced back to individual users.
 - All cached tiles, DEM data, and analysis results are stored locally and never transmitted to remote servers
 
 ### License Activation (Optional)
-- If online activation is enabled, the license key and machine fingerprint are sent to the Visentrix license server
+- If online activation is enabled, the license key and machine fingerprint are sent to the Sentinal Systems UK license server
 - The machine fingerprint is a SHA-256 hash of hardware identifiers — it cannot be reverse-engineered to identify you personally
 - No other data is sent during activation
 - Offline activation is available and sends no data anywhere
@@ -93,4 +93,4 @@ section on our home page.
 
 ---
 
-© 2026 Visentrix. All rights reserved.
+© 2026 Sentinal Systems UK. All rights reserved.

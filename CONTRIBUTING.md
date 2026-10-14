@@ -47,4 +47,4 @@ Be respectful; assume good intent.
 
 ---
 
-© 2026 Visentrix. All rights reserved.
+© 2026 Sentinal Systems UK. All rights reserved.
